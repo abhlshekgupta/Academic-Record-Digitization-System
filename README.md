@@ -5,10 +5,11 @@ A modern, fully functional web application for digitizing legacy academic record
 
 ---
 
-<img width="1806" height="794" alt="Screenshot 2025-10-28 171237" src="https://github.com/user-attachments/assets/b418541a-3250-402b-8969-3b6fec2284eb" />
-<img width="1648" height="879" alt="Screenshot 2025-10-28 171254" src="https://github.com/user-attachments/assets/8920bd34-4563-46bd-9cb3-f895498ebd26" />
-<img width="1652" height="772" alt="Screenshot 2025-10-28 171417" src="https://github.com/user-attachments/assets/81edb9ab-723a-452c-90be-db45023715d9" />
-<img width="1281" height="826" alt="Screenshot 2025-10-28 171443" src="https://github.com/user-attachments/assets/bb0b1f39-5e8f-47ce-9f2c-a6d93ffc96e8" />
+<img width="1894" height="753" alt="Screenshot 2026-07-16 181308" src="https://github.com/user-attachments/assets/f6dd5190-15a4-4630-8d20-36020a46ac90" />
+<img width="1784" height="782" alt="Screenshot 2026-07-16 181255" src="https://github.com/user-attachments/assets/6ae70610-b29b-45e5-ba2a-ed0105178a9b" />
+<img width="1785" height="839" alt="Screenshot 2026-07-16 181245" src="https://github.com/user-attachments/assets/66c303d8-b01d-4ef5-9518-9ef98135a6c4" />
+<img width="1775" height="843" alt="Screenshot 2026-07-16 181222" src="https://github.com/user-attachments/assets/5e7fd0fc-68f0-47e9-b589-5aa4446ee3f1" />
+
 
 ---
 
@@ -33,7 +34,7 @@ A modern, fully functional web application for digitizing legacy academic record
 
 ## 🧑‍💻 Tech Stack
 
-- **Frontend:** HTML5, CSS3 
+- **Frontend:** HTML5, CSS3, NodeJS, Express, Java, Python, FastAPI
 - **Frameworks/UI:** Bootstrap 5.3 via CDN, Font Awesome 6.4 
 - **OCR Engine:** Tesseract.js 5.x 
 - **PDF Renderer:** PDF.js 3.11 
