@@ -5,10 +5,10 @@ A modern, fully functional web application for digitizing legacy academic record
 
 ---
 
-<img width="1894" height="753" alt="Screenshot 2026-07-16 181308" src="https://github.com/user-attachments/assets/f6dd5190-15a4-4630-8d20-36020a46ac90" />
-<img width="1784" height="782" alt="Screenshot 2026-07-16 181255" src="https://github.com/user-attachments/assets/6ae70610-b29b-45e5-ba2a-ed0105178a9b" />
-<img width="1785" height="839" alt="Screenshot 2026-07-16 181245" src="https://github.com/user-attachments/assets/66c303d8-b01d-4ef5-9518-9ef98135a6c4" />
-<img width="1775" height="843" alt="Screenshot 2026-07-16 181222" src="https://github.com/user-attachments/assets/5e7fd0fc-68f0-47e9-b589-5aa4446ee3f1" />
+<img width="1894" height="753" alt="Screenshot 2026-07-16 181308" src="assets/1.png" />
+<img width="1784" height="782" alt="Screenshot 2026-07-16 181255" src="assets/2.png" />
+<img width="1785" height="839" alt="Screenshot 2026-07-16 181245" src="assets/3.png" />
+<img width="1775" height="843" alt="Screenshot 2026-07-16 181222" src="assets/4.png" />
 
 
 ---
